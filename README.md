@@ -1,6 +1,7 @@
 # Chromatic co-occurrence of local binary pattern (CCoLBP) for face presentation attack detection (aka face anti-spoofing or spoofing detection)
 
 ## Peng F, Qin L, Long M. CCoLBP: Chromatic Co-Occurrence of Local Binary Pattern for Face Presentation Attack Detection[C]//2018 27th International Conference on Computer Communication and Networks (ICCCN). IEEE, 2018: 1-9. DOI: 10.1109/ICCCN.2018.8487325
+## Paper online: https://ieeexplore.ieee.org/abstract/document/8487325
 
 ----------------------------------------------------------
 ---Implementation of the chromatic co-occurrence of local binary pattern (CCoLBP) in face presentation attack detection (PAD)---
