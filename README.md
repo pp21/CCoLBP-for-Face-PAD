@@ -55,7 +55,7 @@ The implementation of LBP is licensed to Timo Ojala, Matti Pietikainen, and Topi
     "Multiresolution gray-scale and rotation invariant texture classification with local binary patterns,"
     IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 24, no. 7, pp. 971–987, Jul. 2002.
 
-The implementation of CCoLBP is licensed to Fei Peng, Le Qin and Min Long, 
+The implementation of CCoLBP is licensed to Peng Fei, Qin Le, and Long Min, 
 College of Computer Science and Electronic Engineering, Hunan University, Changsha, China.
 College of Computer and Communication Engineering, Changsha University of Science and Technology, Changsha, China.
 
@@ -63,7 +63,7 @@ College of Computer and Communication Engineering, Changsha University of Scienc
 Contact
 ============
 
-For any question, please contact Prof. Fei Peng <eepengf@gmail.com> or Le Qin <qinle@hnu.edu.cn>.
+For any question, please contact Prof. Peng Fei <eepengf@gmail.com> or Qin Le <qinle@hnu.edu.cn>.
 
 Please kindly cite our paper as follow when you use it. Thank you.
 
