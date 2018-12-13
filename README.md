@@ -67,4 +67,4 @@ For any question, please contact Prof. Fei Peng <eepengf@gmail.com> or Le Qin <q
 
 Please kindly cite our paper as follow when you use it. Thank you.
 
-Please cited as: Peng F, Qin L, Long M. CCoLBP: Chromatic Co-Occurrence of Local Binary Pattern for Face Presentation Attack Detection[C]//2018 27th International Conference on Computer Communication and Networks (ICCCN). IEEE, 2018: 1-9. DOI: 10.1109/ICCCN.2018.8487325
+Please cite as: Peng F, Qin L, Long M. CCoLBP: Chromatic Co-Occurrence of Local Binary Pattern for Face Presentation Attack Detection[C]//2018 27th International Conference on Computer Communication and Networks (ICCCN). IEEE, 2018: 1-9. DOI: 10.1109/ICCCN.2018.8487325
