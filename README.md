@@ -63,8 +63,8 @@ College of Computer and Communication Engineering, Changsha University of Scienc
 Contact
 ============
 
-For any question, please contact Prof. Peng Fei <eepengf@gmail.com> or Qin Le <qinle@hnu.edu.cn>.
+For any question, please contact Qin Le <qinle@hnu.edu.cn>.
 
-Please kindly cite our paper as follow when you use it. Thank you.
+Please kindly cite our paper as follow if you use it. Thank you.
 
 Please cite as: Peng F, Qin L, Long M. CCoLBP: Chromatic Co-Occurrence of Local Binary Pattern for Face Presentation Attack Detection[C]//2018 27th International Conference on Computer Communication and Networks (ICCCN). IEEE, 2018: 1-9. DOI: 10.1109/ICCCN.2018.8487325
