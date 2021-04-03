@@ -1,4 +1,4 @@
-# Chromatic co-occurrence of local binary pattern (CCoLBP) for face presentation attack detection (aka face anti-spoofing or spoofing detection)
+# Chromatic co-occurrence of local binary pattern (CCoLBP) for face presentation attack detection
 
 Table of Contents
 =================
